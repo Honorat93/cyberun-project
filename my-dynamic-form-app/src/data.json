@@ -1,0 +1,9 @@
+{
+    "countries": [
+      { "country": "France", "percentage": 50 },
+      { "country": "Belgique", "percentage": 20 },
+      { "country": "Allemagne", "percentage": 10 },
+      { "country": "Inconnu", "percentage": 20 }
+    ]
+  }
+  
